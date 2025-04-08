@@ -22,7 +22,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     return true; // needed to keep sendResponse alive
   }
 });
-
+// checked
 chrome.action.onClicked.addListener((tab) => {
   if (!tab.id) return;
 

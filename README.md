@@ -31,4 +31,4 @@ A lightweight and powerful Chrome extension that translates selected English tex
 1. *Download or Clone this Repository*
 
    ```bash
-   git clone https://github.com/your-username/english-hindi-translator-extension.git 
+   git clone https://github.com/Taruncodesinc/Bhasa-Setu
